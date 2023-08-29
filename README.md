@@ -2,7 +2,6 @@
 
 <div align="center">
     <img src="https://github.com/ThomasOli/ThomasOli/assets/51518411/013d2f19-fc90-44bf-9762-36a5bdba103c" alt="giphy">
-    <img src="https://github.com/ThomasOli/ThomasOli/assets/51518411/a60ec302-03e0-4316-956b-381ee419d3dc" alt="giphy">
 </div>
 
 
