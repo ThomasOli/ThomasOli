@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Thomas
-<div align="center">
+
 ![coding](https://github.com/ThomasOli/ThomasOli/assets/51518411/36d370d2-769a-4946-9324-ec0404e18275)
-</div>
+![image](https://github.com/ThomasOli/ThomasOli/assets/51518411/a45e2a9f-ed6c-4cf0-9506-1ebb888fdb21)
+
   
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
