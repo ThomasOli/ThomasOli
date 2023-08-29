@@ -4,7 +4,8 @@
 ![giphy](https://github.com/ThomasOli/ThomasOli/assets/51518411/a60ec302-03e0-4316-956b-381ee419d3dc)
 
 
-
+I believe a person's chosen tech stack is a window into their soul. 
+Here's mine:
   
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -16,6 +17,8 @@
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+Your preferred IDE and OS say a lot about you.
 
 ![coding](https://github.com/ThomasOli/ThomasOli/assets/51518411/36d370d2-769a-4946-9324-ec0404e18275)
 <!--
