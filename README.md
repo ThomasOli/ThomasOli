@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Thomas
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l46Cnk4ZRTlfeI32o/giphy.gif" width="100"/>
+  <div style="width:100%;height:0;padding-bottom:74%;position:relative;"><iframe src="https://giphy.com/embed/l46Cnk4ZRTlfeI32o" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoon-spiderman-waving-l46Cnk4ZRTlfeI32o">via GIPHY</a></p>
 </div>
 <!--
 **ThomasOli/ThomasOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
