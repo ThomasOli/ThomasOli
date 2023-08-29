@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Thomas
 
-![giphy](https://github.com/ThomasOli/ThomasOli/assets/51518411/013d2f19-fc90-44bf-9762-36a5bdba103c)
-![giphy](https://github.com/ThomasOli/ThomasOli/assets/51518411/a60ec302-03e0-4316-956b-381ee419d3dc)
+<div align="center">
+    <img src="https://github.com/ThomasOli/ThomasOli/assets/51518411/013d2f19-fc90-44bf-9762-36a5bdba103c" alt="giphy">
+    <br>
+    <img src="https://github.com/ThomasOli/ThomasOli/assets/51518411/a60ec302-03e0-4316-956b-381ee419d3dc" alt="giphy">
+</div>
 
 
 I believe a person's chosen tech stack is a window into their soul. 
