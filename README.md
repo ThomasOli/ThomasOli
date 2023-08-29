@@ -24,7 +24,6 @@ Here's mine:
                
 <div align="center">
     <img src="https://github.com/ThomasOli/ThomasOli/assets/51518411/36d370d2-769a-4946-9324-ec0404e18275" alt="coding">
-    <br>
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasOli&theme=sunset-gradient" alt="GitHub Streak">
     </a>
