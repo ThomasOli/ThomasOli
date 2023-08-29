@@ -29,7 +29,7 @@ Here's mine:
     </a>
 </div>
 
-<img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" alt=" " width="1000"/>
+<img align="center" src="./profile-3d-contrib/profile-night-view.svg" alt=" " width="1000"/>
 
 <!--
 **ThomasOli/ThomasOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
