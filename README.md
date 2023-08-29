@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Thomas
+![coding](https://github.com/ThomasOli/ThomasOli/assets/51518411/36d370d2-769a-4946-9324-ec0404e18275)
 ![giphy](https://github.com/ThomasOli/ThomasOli/assets/51518411/013d2f19-fc90-44bf-9762-36a5bdba103c)
 
-![coding](https://github.com/ThomasOli/ThomasOli/assets/51518411/36d370d2-769a-4946-9324-ec0404e18275)
 
 
   
