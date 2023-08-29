@@ -22,7 +22,6 @@ Here's mine:
 </p>
 <p align="center">                 
 ![coding](https://github.com/ThomasOli/ThomasOli/assets/51518411/36d370d2-769a-4946-9324-ec0404e18275)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThomasOli&theme=sunset-gradient)](https://git.io/streak-stats)
 </p>
 <!--
