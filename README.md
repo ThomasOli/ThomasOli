@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Thomas
-![coding](https://github.com/ThomasOli/ThomasOli/assets/51518411/36d370d2-769a-4946-9324-ec0404e18275)
+
 ![giphy](https://github.com/ThomasOli/ThomasOli/assets/51518411/013d2f19-fc90-44bf-9762-36a5bdba103c)
 ![giphy](https://github.com/ThomasOli/ThomasOli/assets/51518411/a60ec302-03e0-4316-956b-381ee419d3dc)
 
@@ -17,7 +17,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
+![coding](https://github.com/ThomasOli/ThomasOli/assets/51518411/36d370d2-769a-4946-9324-ec0404e18275)
 <!--
 **ThomasOli/ThomasOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
