@@ -11,7 +11,7 @@
        <img src="https://github.com/ThomasOli/ThomasOli/assets/51518411/013d2f19-fc90-44bf-9762-36a5bdba103c" alt="giphy">
 </div>
 
-![](https://github.com/ThomasOli/ThomasOli/blob/main/wave.gif)
+
 I believe a person's chosen tech stack is a window into their soul. 
 Here's mine:
   
