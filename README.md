@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React Native & React
 - 👯 I’m looking to collaborate on unique user-based web applications and cool ideas
 <div align="center">
-    ![]wave.gif
+    ![](wave.gif)
 </div>
 
 
