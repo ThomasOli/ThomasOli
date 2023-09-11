@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React Native & React
 - 👯 I’m looking to collaborate on unique user-based web applications and cool ideas
 <div align="center">
-    ![image](https://github.com/ThomasOli/ThomasOli/assets/51518411/96403752-4bc6-47f7-bc65-b2864b413042)
+    ![image](https://github.com/ThomasOli/ThomasOli/assets/51518411/22b1ad33-b887-40a4-9154-7f1c1162b217)
 
 </div>
 
