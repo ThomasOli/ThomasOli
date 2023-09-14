@@ -12,8 +12,8 @@
 </div>
 
 
-I believe a person's chosen tech stack is a window into their soul. 
-Here's mine:
+### I believe a person's chosen tech stack is a window into their soul. 
+### Here's mine:
   
 <p align="center">
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
