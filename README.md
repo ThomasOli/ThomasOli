@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Full-Stack Development
 - 🌱 I’m currently learning React Native & React
-- 👯 I’m looking to collaborate on unique user-based web applications and cool ideas
+- 👯 I’m looking to collaborate on unique user-based web applications and innovative ideas
 <div align="center">
        <img src="https://github.com/ThomasOli/ThomasOli/assets/51518411/013d2f19-fc90-44bf-9762-36a5bdba103c" alt="giphy">
 </div>
