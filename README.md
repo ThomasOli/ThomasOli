@@ -3,12 +3,16 @@
   
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0759F7&width=435&lines=2nd+Year+University+Student;Experienced+Full-Stack+%26+App+Dev;Idea+Driven+Imaginator;Professional+Keyboard+Masher;Always+learning+more;Currently+Improving+User+Experiences" alt="Typing SVG" /></a>
 </p>
+
+```java
 public class Aidan
 {
   private int age = 19;
   public String[] traits = new String[] { "dumb", "short", "nerd" };
   public String[] hobbies = new String[] { "Coding!", "Ultimate Frisbee", "Chess", "Wrestling", "Sleeping" };
 }
+
+
 - 🔭 I’m currently working on Full-Stack Development
 - 🌱 I’m currently learning React Native & React
 - 👯 I’m looking to collaborate on unique user-based web applications and innovative ideas
