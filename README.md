@@ -24,12 +24,13 @@ public class Thomas
         "Winning at rock-paper-scissors",
         "Eating faster than light",
         "Sleep-typing perfect code",
-        "Dodging spoilers like a ninja",
-        "Speaking fluent movie quotes",
-        "Mastering the art of being 'fashionably late'"
+        "Mastering the art of being 'fashionably late'",
+        "Fluent in three languages: English, Sarcasm, and Movie References.",
+        "A walking, talking encyclopedia of useless trivia.",
+        "Possesses the uncanny ability to choose the slowest moving line every time."
     ]
 
-  public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Taekwondo", "Lifting", "Trivia", "Sleeping" };
+  public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Taekwondo", "Lifting", "Trivia", "Sleeping", "Coding :)" };
 }
 ```
 ## 📍 What Am I Doing?
