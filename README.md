@@ -32,6 +32,7 @@ public class Thomas
   public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Taekwondo", "Lifting", "Trivia", "Sleeping" };
 }
 ```
+### 📍 What Am I Doing?
 
 - 🔭 I’m currently working on Full-Stack Development
 - 🌱 I’m currently learning React Native & React
