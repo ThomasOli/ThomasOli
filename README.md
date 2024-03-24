@@ -16,7 +16,8 @@ public class Thomas
         "Internet Meme Connoisseur",
         "Avid seeker of knowledge, from quantum physics to the perfect Tandoori Chicken Recipe.",
         "Sartorial experimentalist, boldly mixing patterns since childhood.",
-        "Nerd"
+        "Nerd",
+        "Wallstreetsbetter"
     ],
 
    "secret_skills": [
