@@ -17,7 +17,7 @@ public class Thomas
         "Avid seeker of knowledge, from quantum physics to the perfect Tandoori Chicken Recipe.",
         "Sartorial experimentalist, boldly mixing patterns since childhood.",
         "Nerd",
-        "Wallstreetsbetter"
+        "Wallstreetbetter"
     ],
 
    "secret_skills": [
