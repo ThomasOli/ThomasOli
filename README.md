@@ -10,14 +10,7 @@ public class Thomas //import coffee library if undefined
   private int age = 19;
   private int showersTaken = 12301; // Minutes, not Seconds
   private int timesILaughedAtMyOwnJokes = 5000; // Conservatively
-
-  "traits": [
-        "Internet Meme Connoisseur",
-        "Avid seeker of knowledge, from quantum physics to the perfect Tandoori Chicken Recipe.",
-        "Sartorial experimentalist, boldly mixing patterns since childhood.",
-        "Nerd",
-        "Wallstreetbetter"
-    ],
+  private HashMap<String, String> traits;
 
    protected String[] secret_skills = {
     "Making pets love me instantly",
@@ -28,8 +21,16 @@ public class Thomas //import coffee library if undefined
     "A walking, talking encyclopedia of useless trivia.",
     "Possesses the uncanny ability to choose the slowest moving line every time."
   };
-
   public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Taekwondo", "Lifting", "Trivia", "Sleeping", "Coding :)" };
+
+  public UserProfile() {
+        traits = new HashMap<>();
+        traits.put("MemeExpertise", "Internet Meme Connoisseur");
+        traits.put("KnowledgeSeeker", "Avid seeker of knowledge, from quantum physics to the perfect Tandoori Chicken Recipe.");
+        traits.put("Fashionista", "Sartorial experimentalist, boldly mixing patterns since childhood.");
+        traits.put("Self", "Nerd");
+        traits.put("Redditor", "Wallstreetbetter");
+    }
 }
 ```
 ## 📍 What Am I Doing?
