@@ -11,8 +11,7 @@ public class Thomas //import coffee library if undefined
   private int showersTaken = 12301; // Minutes, not Seconds
   private int timesILaughedAtMyOwnJokes = 5000; // Conservatively
   private HashMap<String, String> traits;
-
-   protected String[] secret_skills = {
+protected String[] secret_skills = {
     "Making pets love me instantly",
     "Winning at rock-paper-scissors",
     "Sleep-typing perfect code",
