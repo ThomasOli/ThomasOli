@@ -28,7 +28,7 @@ public class Thomas //import coffee library if undefined
         traits.put("MemeExpertise", "Internet Meme Connoisseur");
         traits.put("KnowledgeSeeker", "Avid seeker of knowledge, from quantum physics to the perfect Tandoori Chicken Recipe.");
         traits.put("Fashionista", "Sartorial experimentalist, boldly mixing patterns since childhood.");
-        traits.put("Self", "Nerd");
+        traits.put("Expertise", "Nerd");
         traits.put("Redditor", "Wallstreetbetter");
     }
 }
