@@ -14,8 +14,9 @@ public class Thomas
 
   "traits": [
         "Internet Meme Connoisseur",
-        "Shorter than a tree but taller than a grasshopper",
-        "Nerd, but in a cool wizard way"
+        "Avid seeker of knowledge, from quantum physics to the perfect Tandoori Chicken Recipe.",
+        "Sartorial experimentalist, boldly mixing patterns since childhood.",
+        "Nerd"
     ],
 
    "secret_skills": [
