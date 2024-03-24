@@ -5,13 +5,30 @@
 </p>
 
 ```java
-public class Aidan
+public class Thomas
 {
   private int age = 19;
-  public String[] traits = new String[] { "dumb", "short", "nerd" };
-  public String[] hobbies = new String[] { "Coding!", "Ultimate Frisbee", "Chess", "Wrestling", "Sleeping" };
+  private int coffeeConsumed = 9872; // Gallons, not cups
+  private int showersTaken = 12301; // Minutes, not Seconds
+  private int timesILaughedAtMyOwnJokes = 5000; // Conservatively
+  "traits": [
+        "Internet Meme Connoisseur",
+        "Shorter than a tree but taller than a grasshopper",
+        "Nerd, but in a cool wizard way"
+    ],
+   "secret_skills": [
+        "Teleporting to fridge at 3am",
+        "Making pets love me instantly",
+        "Winning at rock-paper-scissors",
+        "Eating faster than light",
+        "Sleep-typing perfect code",
+        "Dodging spoilers like a ninja",
+        "Speaking fluent movie quotes",
+        "Mastering the art of being 'fashionably late'"
+    ]
+  public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Eating", "Taekwondo", "Lifting", "Trivia", "Sleeping" };
 }
-
+```
 
 - 🔭 I’m currently working on Full-Stack Development
 - 🌱 I’m currently learning React Native & React
