@@ -11,11 +11,13 @@ public class Thomas
   private int coffeeConsumed = 9872; // Gallons, not cups
   private int showersTaken = 12301; // Minutes, not Seconds
   private int timesILaughedAtMyOwnJokes = 5000; // Conservatively
+
   "traits": [
         "Internet Meme Connoisseur",
         "Shorter than a tree but taller than a grasshopper",
         "Nerd, but in a cool wizard way"
     ],
+
    "secret_skills": [
         "Teleporting to fridge at 3am",
         "Making pets love me instantly",
@@ -26,6 +28,7 @@ public class Thomas
         "Speaking fluent movie quotes",
         "Mastering the art of being 'fashionably late'"
     ]
+
   public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Taekwondo", "Lifting", "Trivia", "Sleeping" };
 }
 ```
