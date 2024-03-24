@@ -26,7 +26,7 @@ public class Thomas
         "Speaking fluent movie quotes",
         "Mastering the art of being 'fashionably late'"
     ]
-  public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Eating", "Taekwondo", "Lifting", "Trivia", "Sleeping" };
+  public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Taekwondo", "Lifting", "Trivia", "Sleeping" };
 }
 ```
 
