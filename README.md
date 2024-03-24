@@ -21,10 +21,8 @@ public class Thomas
     ],
 
    "secret_skills": [
-        "Teleporting to fridge at 3am",
         "Making pets love me instantly",
         "Winning at rock-paper-scissors",
-        "Eating faster than light",
         "Sleep-typing perfect code",
         "Mastering the art of being 'fashionably late'",
         "Fluent in three languages: English, Sarcasm, and Movie References.",
