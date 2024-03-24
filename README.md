@@ -19,15 +19,15 @@ public class Thomas //import coffee library if undefined
         "Wallstreetbetter"
     ],
 
-   "secret_skills": [
-        "Making pets love me instantly",
-        "Winning at rock-paper-scissors",
-        "Sleep-typing perfect code",
-        "Mastering the art of being 'fashionably late'",
-        "Fluent in three languages: English, Sarcasm, and Movie References.",
-        "A walking, talking encyclopedia of useless trivia.",
-        "Possesses the uncanny ability to choose the slowest moving line every time."
-    ]
+   protected String[] secret_skills = {
+    "Making pets love me instantly",
+    "Winning at rock-paper-scissors",
+    "Sleep-typing perfect code",
+    "Mastering the art of being 'fashionably late'",
+    "Fluent in three languages: English, Sarcasm, and Movie References.",
+    "A walking, talking encyclopedia of useless trivia.",
+    "Possesses the uncanny ability to choose the slowest moving line every time."
+  };
 
   public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Taekwondo", "Lifting", "Trivia", "Sleeping", "Coding :)" };
 }
