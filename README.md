@@ -36,13 +36,6 @@ public class Thomas //import coffee library if undefined
     }
 }
 ```
-## 📍 What Am I Doing?
-
-- 🔭 I’m currently working on Full-Stack Development
-- 🌱 I’m currently learning React Native & React
-- 👯 I’m looking to collaborate on unique user-based web applications and innovative ideas
-
-
 ### I believe a person's chosen tech stack is a window into their soul. Here's mine:
   
 <p align="center">
