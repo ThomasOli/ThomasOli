@@ -3,9 +3,6 @@
   
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0759F7&width=435&lines=2nd+Year+University+Student;Experienced+Full-Stack+%26+App+Dev;Idea+Driven+Imaginator;Professional+Keyboard+Masher;Always+learning+more;Currently+Improving+User+Experiences" alt="Typing SVG" /></a>
 </p>
-<div align="center">
-       <img src="https://github.com/ThomasOli/ThomasOli/assets/51518411/013d2f19-fc90-44bf-9762-36a5bdba103c" alt="giphy">
-</div>
 
 ```java
 public class Thomas //import coffee library if undefined
@@ -57,7 +54,6 @@ public class Thomas //import coffee library if undefined
 </p>
                
 <div align="center">
-    <img src="https://github.com/ThomasOli/ThomasOli/assets/51518411/36d370d2-769a-4946-9324-ec0404e18275" alt="coding">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasOli&theme=sunset-gradient" alt="GitHub Streak">
     </a>
