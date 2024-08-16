@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0759F7&width=435&lines=2nd+Year+University+Student;Experienced+Full-Stack+%26+App+Dev;Idea+Driven+Imaginator;Professional+Keyboard+Masher;Always+learning+more;Currently+Improving+User+Experiences" alt="Typing SVG" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThomasOli&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThomasOli&theme=juicyfresh&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### I believe a person's chosen tech stack is a window into their soul. Here's mine:
   
