@@ -30,6 +30,7 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasOli&theme=sunset-gradient" alt="GitHub Streak">
     </a>
 </div>
+
 ```java
 public class Thomas //import coffee library if undefined
 {
