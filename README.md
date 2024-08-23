@@ -59,7 +59,7 @@
 ```java
 public class Thomas //import coffee library if undefined
 {
-  private int age = 19;
+  private int age = 20;
   private int showersTaken = 12301; // Minutes, not Seconds
   private int timesILaughedAtMyOwnJokes = 5000; // Conservatively
   private HashMap<String, String> traits;
