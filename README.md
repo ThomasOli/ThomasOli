@@ -48,8 +48,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-![Chart](https://github-readme-stats.vercel.app/api?username=thomasoli&theme=blue-green)
-
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasOli&theme=sunset-gradient" alt="GitHub Streak">
