@@ -79,11 +79,7 @@ public class Thomas //import coffee library if undefined
 }
 ```
 <img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" alt=" " width="1000"/>
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasOli&theme=sunset-gradient" alt="GitHub Streak">
-    </a>
-</div>
+
 
 <!--
 **ThomasOli/ThomasOli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
