@@ -5,7 +5,11 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThomasOli&theme=juicyfresh&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasOli&theme=sunset-gradient" alt="GitHub Streak">
+    </a>
+</div>
 ### I believe a person's chosen tech stack is a window into their soul. Here's mine:
 
 💻 Languages:
