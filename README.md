@@ -10,6 +10,7 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasOli&theme=sunset-gradient" alt="GitHub Streak">
     </a>
 </div>
+
 ### I believe a person's chosen tech stack is a window into their soul. Here's mine:
 
 💻 Languages:
