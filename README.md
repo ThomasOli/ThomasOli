@@ -71,6 +71,7 @@ public class Thomas //import coffee library if undefined
     "A walking, talking encyclopedia of useless trivia.",
     "Possesses the uncanny ability to choose the slowest moving line every time."
   };
+
   public String[] talents = new String[] { "Freestyling", "Soccer", "Swimming", "Taekwondo", "Lifting", "Trivia", "Sleeping", "Coding :)" };
 
   public UserProfile() {
