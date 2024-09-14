@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Thomas
+### Hi there 👋 I'm Thomas 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:olingerthomas95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thomasolinger/)
 <p align="center">
   
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0759F7&width=435&lines=3rd+Year+University+Student;Experienced+Full-Stack+%26+App+Dev;Idea+Driven+Imaginator;Professional+Keyboard+Masher;Always+learning+more;Currently+Improving+User+Experiences" alt="Typing SVG" /></a>
