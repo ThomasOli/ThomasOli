@@ -2,10 +2,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:olingerthomas95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thomasolinger/)
 
+<div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=0759F7&width=435&lines=3rd+Year+University+Student;Experienced+Full-Stack+%26+App+Dev;Idea+Driven+Imaginator;Professional+Keyboard+Masher;Always+learning+more;Currently+Improving+User+Experiences" alt="Typing SVG" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ThomasOli&theme=juicyfresh&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasOli&theme=sunset-gradient" alt="GitHub Streak">
